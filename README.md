@@ -8,7 +8,8 @@ Script created using ChatGBT wich automaticaly creates month lable in Column A u
 
 🔹 Step 2: Add the Script
 	1.	Delete any code already there.
-	2.	Paste this script
+	2.	Paste this script:
+ https://github.com/ondramlcoch07/Auto-Month-lable-in-Google-Sheets/blob/main/script
 
  🔹 Step 3: Save & Authorize
 	1.	Click the 💾 Save button (give your project a name, e.g. “MonthMerge”).
