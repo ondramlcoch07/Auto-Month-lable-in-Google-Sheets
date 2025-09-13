@@ -6,8 +6,6 @@ Script created using ChatGBT wich automaticaly creates month lable in Column A u
 	2.	Go to Extensions > Apps Script.
 	3.	A new tab will open with the Apps Script editor.
 
-⸻
-
 🔹 Step 2: Add the Script
 	1.	Delete any code already there.
 	2.	Paste this script:
@@ -102,8 +100,6 @@ function onEdit(e) {
 	2.	Run mergeAndColorMonths once manually:
 	•	Click the dropdown next to the ▶️ button, select mergeAndColorMonths, then press ▶️.
 	•	The first time you run it, Google will ask for permissions → Allow.
-
-⸻
 
 🔹 Step 4: Use it
 	•	Now, whenever you type or change a date in column B,
