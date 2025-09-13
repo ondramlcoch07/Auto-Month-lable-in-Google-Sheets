@@ -1,5 +1,7 @@
 # Auto-Month-lable-in-Google-Sheets
 Script created using ChatGBT wich automaticaly creates month lable in Column A using date data in Column B. 
+<img width="804" height="787" alt="image" src="https://github.com/user-attachments/assets/af078609-501d-4e28-b5e5-b838a10949a6" />
+
 
 🔹 Step 1: Open Apps Script
 	1.	Open your Google Sheet.
